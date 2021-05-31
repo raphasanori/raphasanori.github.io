@@ -1,0 +1,9 @@
+:root {
+    --main-bg-color: #907FA6;
+    --main-sub-color: #A599B5;
+    --main-bghover-color: #A599B5;
+}
+
+.navbar-portfolio {
+    background: var(--main-bg-color) !important;
+}
